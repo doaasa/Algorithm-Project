@@ -1,0 +1,22 @@
+Advanced high- resolution approaches: human health and biodiversity genomics
+
+
+Haplotype-resolved genome assembly
+
+Hi-FI
+
+tools: WhatsHap , HapCut , HapCol
+
+HI-C technology after HIFI
+
+k-mer : De brujin graph
+
+Overlap Graph
+
+
+(using Kmer to get supsequence of Reads and the arrangement of them)
+
+human genome 2 hours .. 48 CPU threads
+
+
+ERGA

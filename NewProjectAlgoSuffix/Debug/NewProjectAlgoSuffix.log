@@ -1,0 +1,6 @@
+﻿  Source.cpp
+E:\2nd term\Algorithms dr.ebrahim\NewProjectAlgoSuffix\NewProjectAlgoSuffix\Source.cpp(23,20): warning C4018: '<': signed/unsigned mismatch
+E:\2nd term\Algorithms dr.ebrahim\NewProjectAlgoSuffix\NewProjectAlgoSuffix\Source.cpp(43,20): warning C4018: '<': signed/unsigned mismatch
+E:\2nd term\Algorithms dr.ebrahim\NewProjectAlgoSuffix\NewProjectAlgoSuffix\Source.cpp(45,21): warning C4018: '<': signed/unsigned mismatch
+E:\2nd term\Algorithms dr.ebrahim\NewProjectAlgoSuffix\NewProjectAlgoSuffix\Source.cpp(57,20): warning C4018: '<': signed/unsigned mismatch
+  NewProjectAlgoSuffix.vcxproj -> E:\2nd term\Algorithms dr.ebrahim\NewProjectAlgoSuffix\Debug\NewProjectAlgoSuffix.exe
